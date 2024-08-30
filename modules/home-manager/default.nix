@@ -20,7 +20,6 @@
       jq
       manix
       tlrc
-      teams-for-linux
     ];
 
     stateVersion = "24.05";
