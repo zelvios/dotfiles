@@ -9,4 +9,8 @@
     environment.cosmic.enable = true;
     greeter.cosmic.enable = true;
   };
+
+  nixpkgs.config.permittedInsecurePackages = [
+    "electron-29.4.6"
+  ];
 }
