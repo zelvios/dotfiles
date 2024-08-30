@@ -63,6 +63,7 @@
     plugins = with pkgs; [
       {
         name = "zsh-syntax-highlighting";
+        src = zsh-syntax-highlighting;
         file = "share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh";
       }
       {
