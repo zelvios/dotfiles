@@ -20,6 +20,11 @@
       jq
       manix
       tlrc
+      discord
+      jetbrains.rust-rover
+      jetbrains.rider
+      jetbrains.webstorm
+      android-studio
     ];
 
     stateVersion = "24.05";

@@ -43,17 +43,10 @@
 
     profiles.${userInfo.username} = {
       search = {
-        default = "Brave";
+        default = "Google";
         force = true;
 
         engines = {
-          "Brave" = {
-            urls = [{template = "https://search.brave.com/search?q={searchTerms}";}];
-
-            iconUpdateURL = "https://cdn.search.brave.com/serp/v2/_app/immutable/assets/favicon.acxxetWH.ico";
-            updateInterval = 24 * 60 * 60 * 1000; # Once every day.
-          };
-
           "Nix Packages" = {
             urls = [
               {
@@ -92,7 +85,6 @@
 
           # Disable other search engines.
           "DuckDuckGo".metaData.hidden = true;
-          "Google".metaData.hidden = true;
           "Bing".metaData.hidden = true;
           "Wikipedia (en)".metaData.hidden = true;
         };

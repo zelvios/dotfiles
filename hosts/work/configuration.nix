@@ -6,8 +6,12 @@
 
   desktop = {
     audio.pipewire.enable = true;
-    environment.cosmic.enable = true;
-    greeter.cosmic.enable = true;
+    environment.kde.enable = true;
+    greeter = {
+      sddm.enable = true;
+
+      useWayland = false;
+    };
   };
 
   nixpkgs.config.permittedInsecurePackages = [
