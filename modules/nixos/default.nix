@@ -11,6 +11,7 @@
     ./nh.nix
     ./nix.nix
     ./nvidia.nix
+    ./stylix.nix
     ./user.nix
   ];
 

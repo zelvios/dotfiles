@@ -4,4 +4,6 @@
 
     settings.color_theme = "TTY";
   };
+
+  stylix.targets.btop.enable = false;
 }

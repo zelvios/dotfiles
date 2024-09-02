@@ -1,5 +1,5 @@
 {
   imports = [
-    ./cosmic.nix
+    ./kde.nix
   ];
 }

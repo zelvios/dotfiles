@@ -4,7 +4,7 @@
   ...
 }: {
   imports = [
-    ./cosmic.nix
+    ./sddm.nix
   ];
 
   options.desktop.greeter.useWayland = lib.mkOption {
