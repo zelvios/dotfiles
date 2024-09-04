@@ -25,6 +25,7 @@
       jetbrains.rider
       jetbrains.webstorm
       android-studio
+      cargo
     ];
 
     stateVersion = "24.05";
