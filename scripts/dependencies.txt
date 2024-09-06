@@ -1,0 +1,15 @@
+git
+stow
+build-essential
+zsh
+fzf
+eza
+zoxide
+tmux
+alacritty
+neovim
+ripgrep
+curl
+lldb
+qbittorrent
+fastfetch

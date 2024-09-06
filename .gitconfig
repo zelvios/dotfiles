@@ -1,0 +1,10 @@
+[user]
+	name = Jacob Jørgensen
+	email = me@jacob-j.com
+	signingkey = me@jacob-j.com
+[core]
+	autocrlf = input
+[push]
+	autoSetupRemote = true
+[commit]
+	gpgsign = true
