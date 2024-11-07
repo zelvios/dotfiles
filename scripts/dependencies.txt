@@ -10,6 +10,7 @@ alacritty
 neovim
 ripgrep
 curl
+wget
 lldb
 qbittorrent
 fastfetch
