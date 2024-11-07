@@ -1,0 +1,4 @@
+# ignore all besides tpm
+*
+!tpm
+!.gitignore
