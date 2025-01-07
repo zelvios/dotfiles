@@ -1,0 +1,7 @@
+[user]
+	name = Jacob Jørgensen
+	email = me@jacob-j.com
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
