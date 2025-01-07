@@ -1,0 +1,17 @@
+git
+stow
+base-devel
+zsh
+fzf
+zoxide
+tmux
+alacritty
+neovim
+ripgrep
+docker
+gitui
+tokei
+discord
+fastfetch
+ttf-jetbrains-mono-nerd
+firefox
