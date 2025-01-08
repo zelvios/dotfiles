@@ -43,12 +43,14 @@ zstyle ':fzf-tab:*' switch-group '<' '>'
 setopt auto_cd
 
 # Aliases.
-alias pwd='pwd && pwd | xclip -sel clipboard'
 alias c='clear'
 alias system='fastfetch'
 alias eza='eza --icons always --git --group-directories-first --header'
 alias tree='eza --tree'
 alias sudo='sudo '
+
+# Add Cargo binaries to PATH.
+export PATH="$PATH:$HOME/.cargo/bin"
 
 # Shell integrations.
 eval "$(fzf --zsh)"
