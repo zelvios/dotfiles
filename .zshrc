@@ -17,6 +17,12 @@ zinit light nix-community/nix-zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
 
+# Add in snippets.
+zinit snippet OMZP::sudo
+zinit snippet OMZP::archlinux
+zinit snippet OMZP::eza
+zinit snippet OMZP::command-not-found
+
 # Load completions.
 autoload -Uz compinit && compinit
 
@@ -38,10 +44,15 @@ setopt auto_cd
 
 # Aliases.
 alias pwd='pwd && pwd | xclip -sel clipboard'
-
-## Shortcuts.
 alias c='clear'
 alias system='fastfetch'
+alias eza='eza --icons always --git --group-directories-first --header'
+alias tree='eza --tree'
+alias sudo='sudo '
+
+# Shell integrations.
+eval "$(fzf --zsh)"
+eval "$(zoxide init --cmd cd zsh)"
 
 # Set up keybindings.
 bindkey -e # Use Emacs bindings.
