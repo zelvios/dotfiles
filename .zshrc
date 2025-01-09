@@ -78,4 +78,4 @@ setopt hist_ignore_all_dups
 setopt hist_save_no_dups
 
 # Initialize prompt.
-eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/catppuccin_mocha.omp.json)"
+source ~/.config/themes/headline.zsh-theme
