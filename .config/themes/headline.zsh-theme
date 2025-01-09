@@ -281,8 +281,7 @@ HL_CLOCK_MODE='on' # on|off
 HL_CLOCK_TEMPLATE="%{$faint%} ... %{$reset$HL_LAYOUT_STYLE%}╰"
 
 # Command which outputs clock content
-HL_CLOCK_SOURCE='date "+%l:%M:%S %p"' # consider 'date +%+' for full date
-
+HL_CLOCK_SOURCE='date "+%H:%M:%S"' # changed to 24h clock
 
 # Show non-zero exit code, include a guessed meaning too, or don't show
 HL_ERR_MODE='detail' # on|detail|off
