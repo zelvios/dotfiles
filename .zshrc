@@ -78,4 +78,4 @@ setopt hist_ignore_all_dups
 setopt hist_save_no_dups
 
 # Initialize prompt.
-source ~/.config/themes/headline.zsh-theme
+source ~/.config/zsh/headline.zsh-theme
