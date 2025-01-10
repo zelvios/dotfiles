@@ -1,8 +1,15 @@
 # dotfiles
 
-Personal configuration files for Arch Linux.
+> [!IMPORTANT]
+> This is a very early version. 
+> Expect some parts to be experimental and subject to change. 
+> Not everything may be fully configured or optimized yet.
 
-## Setup Guide
+## 📷 Showcase
+
+![design.png](screenshots/img.png)
+
+## 🔧  Setup Guide
 
 1. Clone the repository:
 
@@ -22,7 +29,7 @@ Personal configuration files for Arch Linux.
     ./install.sh
     ```
 
-### Or, as a one liner:
+### Or, as an oneliner:
 
 ```sh
 git clone https://github.com/Zelvios/dotfiles.git ~/dotfiles && cd ~/dotfiles && ./install.sh
