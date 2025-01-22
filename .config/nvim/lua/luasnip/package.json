@@ -1,0 +1,14 @@
+{
+  "name": "friendly-snippets",
+  "engines": {
+    "vscode": "^1.93.1"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/cpp.json"
+      }
+    ]
+  }
+}
