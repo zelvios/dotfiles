@@ -7,7 +7,8 @@
 
 ## 📷 Showcase
 
-![design.png](screenshots/img.png)
+![design.png](screenshots/design.png)
+
 
 ## 🔧  Setup Guide
 
