@@ -5,7 +5,9 @@ zsh
 fzf
 zoxide
 tmux
-alacritty
+ghostty
+libadwaita
+gtk4
 neovim
 ripgrep
 docker
