@@ -1,23 +1,26 @@
-theme = catppuccin-mocha
+shell-integration = zsh
+
+auto-update = check
+
+theme = theme.conf
 
 font-family = JetBrainsMono Nerd Font Mono
-fullscreen = true
+font-size = 12
 
 mouse-hide-while-typing = true
 shell-integration-features = no-cursor
+
+# Window
+fullscreen = true
 window-decoration = true
-
-#window-padding-balance = true
-
+window-padding-balance = false
 window-padding-y = 10
 window-padding-x = 8
-
-#window-save-state = always
+window-save-state = always
 
 # Keybindings
 keybind = ctrl+alt+n=new_tab
 keybind = ctrl+alt+x=close_surface
-
 
 keybind = ctrl+alt+tab=next_tab
 
