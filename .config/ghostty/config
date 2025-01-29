@@ -1,22 +1,29 @@
+# shell-integration
 shell-integration = zsh
-
 auto-update = check
-
-theme = theme.conf
-
-font-family = JetBrainsMono Nerd Font Mono
-font-size = 12
-
 mouse-hide-while-typing = true
 shell-integration-features = no-cursor
 
+# Theme
+theme = theme.conf
+
+# Font
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 12
+
 # Window
-fullscreen = true
+window-theme = ghostty
 window-decoration = true
 window-padding-balance = false
 window-padding-y = 10
 window-padding-x = 8
 window-save-state = always
+clipboard-read = allow
+clipboard-paste-protection = false
+
+# Transparency
+background-opacity = 0.9
+background-blur-radius = 20
 
 # Keybindings
 keybind = ctrl+alt+n=new_tab
