@@ -12,7 +12,7 @@ for (i=0;i<Desktops.length;i++) {
         d = Desktops[i];
         d.wallpaperPlugin = "org.kde.image";
         d.currentConfigGroup = Array("Wallpaper", "org.kde.image", "General");
-        d.writeConfig("Image", "file://home/jacob/dotfiles/wallpapers/background.jpeg");
+        d.writeConfig("Image", "file://home/jacob/dotfiles/wallpapers/background.jpg");
 }'
 
 # Set up symlinks.
