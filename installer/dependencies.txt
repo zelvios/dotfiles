@@ -17,3 +17,4 @@ discord
 fastfetch
 ttf-jetbrains-mono-nerd
 firefox
+hyprland
