@@ -1,4 +1,4 @@
-# shell-integration
+# Shell Integration
 shell-integration = zsh
 auto-update = check
 mouse-hide-while-typing = true
