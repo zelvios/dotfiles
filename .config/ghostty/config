@@ -22,7 +22,7 @@ clipboard-read = allow
 clipboard-paste-protection = false
 
 # Transparency
-background-opacity = 0.9
+background-opacity = 0.85
 background-blur-radius = 20
 
 # Keybindings
