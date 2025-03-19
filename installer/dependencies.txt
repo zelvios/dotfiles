@@ -5,7 +5,7 @@ zsh
 fzf
 zoxide
 tmux
-ghostty
+kitty
 libadwaita
 gtk4
 neovim
@@ -18,3 +18,8 @@ fastfetch
 ttf-jetbrains-mono-nerd
 firefox
 hyprland
+dunst
+wlogout
+tofi
+waybar
+swww
