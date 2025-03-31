@@ -16,10 +16,15 @@ tokei
 discord
 fastfetch
 ttf-jetbrains-mono-nerd
-firefox
 hyprland
 dunst
 wlogout
 tofi
 waybar
 swww
+nautilus
+grimblast-git
+cliphist
+hypridle
+hyprlock
+zen-browser-bin
