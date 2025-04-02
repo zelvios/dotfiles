@@ -29,3 +29,4 @@ hypridle
 hyprlock
 zen-browser-bin
 hyprpicker
+blueman
