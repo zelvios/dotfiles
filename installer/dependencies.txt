@@ -28,3 +28,4 @@ cliphist
 hypridle
 hyprlock
 zen-browser-bin
+hyprpicker
