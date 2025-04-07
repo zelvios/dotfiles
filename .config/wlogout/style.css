@@ -7,13 +7,11 @@
 
 window {
     background-color: #11111b;
-    /* border-radius: 10px; */
 }
 
 button {
     background-color: #11111b;
     border-style: solid;
-    /* border-width: 2px; */
     border-radius: 50px;
     background-repeat: no-repeat;
     background-position: center;
