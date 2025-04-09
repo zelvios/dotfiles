@@ -44,7 +44,6 @@ setopt auto_cd
 
 # Aliases.
 alias c='clear'
-alias fastfetch='fastfetch --kitty-direct ~/dotfiles/.config/fastfetch/logo/use.png --logo-width "25"'
 alias eza='eza --icons always --git --group-directories-first --header'
 alias tree='eza --tree'
 alias sudo='sudo '
