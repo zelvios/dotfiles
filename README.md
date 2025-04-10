@@ -3,7 +3,7 @@
 <!-- BADGES -->
 <div align="center">
 
-[![stars](https://img.shields.io/github/stars/zelvios/dotfiles?color=C9CBFF&labelColor=1A1B26&style=for-the-badge)](https://github.com/zelvios/dotfiles/stargazers)
+[![stars](https://img.shields.io/github/stars/zelvios/dotfiles?color=C9CBFF&labelColor=1A1B26&style=for-the-badge)](https://github.com/zelvios/dotfiles)
 [![size](https://img.shields.io/github/repo-size/zelvios/dotfiles?color=9ece6a&labelColor=1A1B26&style=for-the-badge)](https://github.com/zelvios/dotfiles)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzelvios%2Fdotfiles&label=View&labelColor=%231a1b26&countColor=%23e0af68)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzelvios%2Fdotfiles)
 [![license](https://img.shields.io/github/license/zelvios/dotfiles?color=FCA2AA&labelColor=1A1B26&style=for-the-badge)](https://github.com/zelvios/dotfiles/blob/main/LICENSE.md)
