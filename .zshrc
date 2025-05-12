@@ -79,7 +79,7 @@ setopt hist_save_no_dups
 eval "$(direnv hook zsh)"
 
 # Initialize prompt.
-eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/theme.json)"
+eval "$(starship init zsh)"
 export PATH="$HOME/.local/bin:$PATH"
 
 export PATH=$PATH:/home/jacob/.local/bin
