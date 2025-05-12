@@ -80,6 +80,8 @@ eval "$(direnv hook zsh)"
 
 # Initialize prompt.
 eval "$(starship init zsh)"
+export STARSHIP_CONFIG=~/.config/starship/starship.toml
+
 export PATH="$HOME/.local/bin:$PATH"
 
 export PATH=$PATH:/home/jacob/.local/bin
